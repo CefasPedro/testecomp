@@ -1,0 +1,7 @@
+{
+    "name": "testecomp/testecomp",
+    "require": {
+        "cefaspedro/conecta": "dev-master"
+    }
+
+}
